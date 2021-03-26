@@ -3,7 +3,7 @@
 본 프로젝트는 Kaggle Competition에서 사용된 데이터 셋을 이용하여 진행되었습니다. 
 * [Korean hate speech (Kaggle)](https://www.kaggle.com/c/korean-hate-speech-detection/overview)
 
-**결과: 프로젝트 종료일 2021.01.28. Leaderboard 8위 기록(Score: 0.57696)**
+#### **프로젝트 결과: 프로젝트 종료일 2021.01.28. Leaderboard 8위 기록(Score: 0.57696)**
 ![image](https://user-images.githubusercontent.com/67237187/112584918-267f7000-8e3c-11eb-922f-e9bb71c06d68.png)
 
 I. 프로젝트 개요
