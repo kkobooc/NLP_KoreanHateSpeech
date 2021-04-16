@@ -133,8 +133,8 @@ IV. Logistic Regression에 집중한 분류
 - 학습된 Word2Vec을 바탕으로 각 문장들을 Vectorize하여 Logistc Regression으로 예측
 - 모델 테스트시 유사 단어 추출은 좋았으나 실질적 악플 분류에 뛰어난 성능을 보여주지는 못함
 - Validation Data 예측 F1-Score: 0.546 / Kaggle score : 0.47134
-* [Word2Vec 사용한 Logistic Regression](https://github.com/hayoon/nlp_hate_speech/blob/master/code/jc/06_Word2Vec.ipynb)
-* [Word2Vec model](https://github.com/hayoon/nlp_hate_speech/blob/master/code/jc/million_comments.model)
+* [Word2Vec 사용한 Logistic Regression](https://github.com/kkobooc/NLP_KoreanHateSpeech/blob/master/code/Jaecheol/06_Word2Vec.ipynb)
+* [Word2Vec model](https://github.com/kkobooc/NLP_KoreanHateSpeech/blob/master/code/Jaecheol/06_01_comments.model)
 3. Doc2Vec
 - validation data와 train data를 합쳐서 train과 test로 split하여 학습 시킴
 - 각 코멘트 뒤에 라벨을 태그로 입력하여 dbow와 dm 두 가지 방법으로 벡터화한 후 각각 모델링한 값과 둘을 concat하여 모델링한 값 3가지를
